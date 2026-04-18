@@ -1,0 +1,50 @@
+# Build outputs
+*.sys
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.map
+*.ilk
+*.exp
+*.lib
+*.idb
+*.pdb
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+.vs/
+*.sdf
+*.db
+
+# WDK
+*.sdb
+*.manifest
+*.hm
+
+# Directories
+obj/
+bin/
+Debug/
+Release/
+x64/
+Win32/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~

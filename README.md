@@ -92,7 +92,8 @@ R0Command/
 
 ## 作者
 
-R0Command Development Team
+BiliBili Command-Studio
+Github UsersTest-Cloud
 
 ## 版本
 
